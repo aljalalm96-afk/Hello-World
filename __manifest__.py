@@ -6,7 +6,7 @@
     "name": "Product → Account Auto-fill (JS only)",
     "version": "19.0.1.0.0",
     "category": "Accounting",
-    "summary": "Fill account_id when product_id changes on Journal Items, client-side (no Python onchange).",
+    "summary": "Fill accoufnt_id when product_id changes on Journal Items, client-side (no Python onchange).",
     "author": "It dev",
     "license": "LGPL-3",
     "depends": [
@@ -21,5 +21,5 @@
         ],
     },
     "installable": True,
-    "application": False,
+    "application": True,
 }
